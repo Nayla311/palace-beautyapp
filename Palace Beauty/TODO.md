@@ -1,0 +1,9 @@
+- [x] Add carousel_slider dependency to pubspec.yaml
+- [x] Modify home_screen.dart to add carousel slideshow above the body when a specific category is selected
+- [x] Implement carousel with images for each category:
+  - Make Up Artist: wedding makeup.JPG, party makeup.jpg, daily makeup.jpg
+  - Nail Care: basic manicure.jpg, luxury nailart.JPG, spa pedicure.jpg
+  - Hair Styling: hair coloring.jpg, hair cut&style.jpg, hair treatment.jpg
+  - Facial Treatment: acne treatment.jpg, anti-aging facial.jpg, deep cleansing facial.jpg
+- [x] Add auto-slide every 3 seconds and manual swipe functionality
+- [x] Test the carousel display and functionality
