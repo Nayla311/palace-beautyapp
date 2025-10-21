@@ -1,4 +1,4 @@
-import 'package:naila_pusing/models/service.dart';
+import 'package:palace_beautyapp/models/service.dart';
 
 class MakeUpService extends Service {
   final List<String> _makeupTypes;

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:naila_pusing/models/user.dart';
-import 'package:naila_pusing/utils/dummy_data.dart'; // <-- pastikan ada
-import 'package:naila_pusing/screens/home_screen.dart';
-import 'package:naila_pusing/screens/register_screen.dart';
-import 'package:naila_pusing/screens/admin/admin_dashboard.dart'; // <-- pastikan ada
+import 'package:palace_beautyapp/models/user.dart';
+import 'package:palace_beautyapp/utils/dummy_data.dart'; // <-- pastikan ada
+import 'package:palace_beautyapp/screens/home_screen.dart';
+import 'package:palace_beautyapp/screens/register_screen.dart';
+import 'package:palace_beautyapp/screens/admin/admin_dashboard.dart'; // <-- pastikan ada
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});

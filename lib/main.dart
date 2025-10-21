@@ -2,9 +2,9 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart'; // Import Provider
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:naila_pusing/screens/splash_screen.dart';
-import 'package:naila_pusing/service/order_service.dart'; // Import OrderService
-import 'package:naila_pusing/models/order.dart'; // Import Order for Hive adapter
+import 'package:palace_beautyapp/screens/splash_screen.dart';
+import 'package:palace_beautyapp/service/order_service.dart'; // Import OrderService
+import 'package:palace_beautyapp/models/order.dart'; // Import Order for Hive adapter
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

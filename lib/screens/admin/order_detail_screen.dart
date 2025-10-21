@@ -1,6 +1,6 @@
 // lib/screens/admin/order_detail_screen.dart
 import 'package:flutter/material.dart';
-import 'package:naila_pusing/service/order_service.dart';
+import 'package:palace_beautyapp/service/order_service.dart';
 import 'package:provider/provider.dart';
 import '../../models/order.dart';
 import '../../service/order_service.dart';

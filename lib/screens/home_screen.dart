@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:naila_pusing/screens/login_screen.dart';
-import 'package:naila_pusing/screens/menu_detail_screen.dart';
-import 'package:naila_pusing/screens/order_screen.dart';
+import 'package:palace_beautyapp/screens/login_screen.dart';
+import 'package:palace_beautyapp/screens/menu_detail_screen.dart';
+import 'package:palace_beautyapp/screens/order_screen.dart';
 import 'package:provider/provider.dart';
 import '../models/user.dart';
 import '../models/service.dart';
